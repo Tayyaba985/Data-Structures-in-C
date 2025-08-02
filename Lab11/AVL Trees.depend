@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1607594388 source:d:\data structures and algorithms\labs\lab 11 avl trees implementation\avl code\avl trees\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"node.h"
+	"AVL.h"
+
+1607593549 d:\data structures and algorithms\labs\lab 11 avl trees implementation\avl code\avl trees\node.h
+
+1607595806 d:\data structures and algorithms\labs\lab 11 avl trees implementation\avl code\avl trees\avl.h
+
+1607593087 source:d:\data structures and algorithms\labs\lab 11 avl trees implementation\avl code\avl trees\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"node.h"
+	"AVL.h"
+
