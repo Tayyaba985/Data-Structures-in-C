@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1601017543 source:d:\data structures and algorithms\labs\lab 02 singly linked list\code\for_students\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"employee.h"
+
+1601017272 d:\data structures and algorithms\labs\lab 02 singly linked list\code\for_students\employee.h
+
+1601017252 source:d:\data structures and algorithms\labs\lab 02 singly linked list\code\for_students\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"employee.h"
+
+1601017543 source:e:\data structures and algorithms\labs\lab 02 singly linked list\code\for_students\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"employee.h"
+
+1601017272 e:\data structures and algorithms\labs\lab 02 singly linked list\code\for_students\employee.h
+
+1601017252 source:e:\data structures and algorithms\labs\lab 02 singly linked list\code\for_students\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"employee.h"
+
